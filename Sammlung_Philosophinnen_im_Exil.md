@@ -12,6 +12,8 @@
 
 ## Hannah Arendt
 
+![Hannah Arendt](Images/23-01-53-00051B8A-hanna-arendt.jpg "https://www.filosofemme.it/2020/06/01/hannah-arendt-la-filosofa-che-pensava-da-se/")
+
 >✶ 1906 - ✝ 1975
 >
 >**Exil:** Frankreich, Palästina und USA 
@@ -112,7 +114,9 @@
 
 ## Anita Augspurg 
 
->✶ 1857 - ✝ 1943
+![Anita Augspurg](Images/Anita_Augspurg.jpg "Von Hofatelier Elvira - http://portrait.kaar.at/Verschiedene%2019.Jhd/image20.html, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5789707")
+
+>✶ 1857 - ✝ 1943 
 >
 >**Exil:** Zürich 
 
@@ -162,6 +166,8 @@
 
 
 ## Margarete Berent 
+
+![Margarete Berent](Images/Margarete_Berent.jpeg "Foto auf https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/margarete-berent , Ursprüngliche Quelle: Landesarchiv Berlin, LAB B Rep. 235-12 NL Marie Munk, MF-Nr. 3513, Lizenz: Rechte vorbehalten - Freier Zugang, Marie Munk (1885-1978)")
 
 >✶ 1887 - ✝ 1965
 >
@@ -260,6 +266,8 @@
 
 ## Charlotte Bühler
 
+![Charlotte Bühler](Images/Charlotte_Buehler.jpg "Foto veröffentlich als CC auf https://geschichte.univie.ac.at/de/personen/charlotte-buehler-geb-malachowski, urspüngliche Quelle: BestandgeberIn: Archiv der Universität Wien, Bildarchiv UrheberIn: Foto Ernst & Cesanek, Wien Signatur: 106.I.1634")
+
 >✶ 1893 - ✝ 1974
 >
 >**Exil:** Oslo, London, USA 
@@ -324,6 +332,7 @@
 >**Exil:** USA 
 
 **Zur Person**
+
 Else Frenkel-Brunswik studierte Mathematik, Physik und schließlich Psychologie in Wien. Sie promovierte in der Psychoanalytik und gilt somit auch als Philosophin.
 
 Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die USA und begann an der University of California in Berkeley ihre Tätigkeit als Senior Lecturer am Institute of Child Welfare sowie als wissenschaftliche Psychologin und Psychotherapeutin am Cowell Memorial Hospital. Im selben Jahr heiratete sie den ebenfalls aus Wien emigrierten Psychologen Egon Brunswik.
@@ -353,6 +362,8 @@ Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die U
 ## Anna Freud 
 
 !noch nicht im Seminar erforscht!
+
+![Anna Freud](Images/annafreud.jpg.crdownload "Veröffentlicht als CC auf https://ecolesnouvelles.hypotheses.org/243")
 
 >✶ 1895 - ✝ 1982 
 >
@@ -390,6 +401,8 @@ Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die U
 - Uni Wien ([Beitrag zu Anna Freud](https://geschichte.univie.ac.at/de/personen/anna-freud))
 
 ## Eveline Goodman-Thau
+
+![Eveline Goodman-Thau](Images/Eveline_Goodman-Thau.png "Foto von MaSchm auf [WikiMedia](https://commons.wikimedia.org/wiki/File:Eveline_Goodman-Thau_Foto.png), [CC By-Sa 4.0](https://creativecommons.org/licenses/by-sa/4.0)")
 
 >✶ 1934
 >
@@ -982,6 +995,8 @@ Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material
 
 ## Judith N. Shaklar 
 
+![Judith N. Shaklar](Images/Judith_sklar.webp "Foto veröffentlicht auf https://roughlydaily.com/2020/04/24/philosophy-fails-to-give-injustice-its-due/, [CC SA 3.0 United States](https://creativecommons.org/licenses/by-sa/3.0/us/)")
+
 >✶ 1928 - ✝ 1992
 >
 >**Exil:**
@@ -1043,6 +1058,8 @@ Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material
 
 ## Helene Stöcker
 
+![Helene Stöcker](Images/Dr._phil._Helene_Stoecker_c._1903.png "Von Photographer not credited - Berliner Leben, Jg. 1903, Heft 07., Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=90830370")
+
 >✶ 1869 - ✝ 1943
 >
 >**Exil:**
@@ -1099,6 +1116,8 @@ Inhalte ...
 >**Exil:**
 
 ## Simone Weil 
+
+![Simone Weil](Images/Simone_Weil_Baden-Baden_1921.jpg "Von Autor/-in unbekannt - http://wikilivres.ca/wiki/File:Simone_Weil_jeune.jpg, Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=40213484") ![Simone Weil lachend](Images/Simone_Weil_1922.jpg "Von Anonymous (see cover of Sylvie Weil, At Home with André and Simone Weil, Northwestern University Press, 2010) - http://passaggioasudest.wordpress.com/2012/11/20/le-forme-dellamore/Also on the front cover of Sylvie Weil, At Home with André and Simone Weil, Northwestern University Press, 2010., Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=28178404")
 
 >✶ 1909 - ✝ 1943
 >
