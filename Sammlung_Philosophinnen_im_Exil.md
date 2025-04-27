@@ -1,14 +1,37 @@
 # Sammlung Philosophinnen im Exil
 
-Übersicht als Karte mit verlinkten Philosophinnen und bestenfalls Netzwerkanalyse (folgt...)
+![Netzwerk](/Images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg "Alina Grubnyak auf Unsplash") Übersicht als Karte mit verlinkten Philosophinnen und bestenfalls Netzwerkanalyse (folgt...)
 
 >**Hinweis:** Rechercheergebnisse aus Projektseminaren und von Agnė Itogulovaitė (Philosophisches Seminar, CAU).
+
+<!-- style="background-color: lightblue;"-->
+> 🧩 Die Sammlung ist im Fluss.. An vielen Stellen (besonders an den durch blaue Kästchen markierten) kann sehr gerne noch ergänzt werden!✏️
 
 ## Gretel Adorno
 
 >✶ 1902 - ✝ 1993
 >
 >**Exil:** 1937 in London, England
+
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
 
 ## Hannah Arendt
 
@@ -42,28 +65,28 @@
 - Aufenthalt in Prag, Tschechoslowakei (heute Tschechische Republik) und Genf, Schweiz
 - Ab 1933 Exilleben in Paris, Frankreich 
 
-    * Kontakt mit verschiedenen Exilanten führt zu neuem Verständnis von Exil, Heimatlosigkeit, Notwendigkeit von politischer Zugehörigkeit und Identität.
+  * Kontakt mit verschiedenen Exilanten führt zu neuem Verständnis von Exil, Heimatlosigkeit, Notwendigkeit von politischer Zugehörigkeit und Identität.
 
 - 1940 bis 1941 Inhaftierung im Internierungslager Gurs, Frankreich
 
-    * Seit der Gestapo-Verhaftung kam es bei Arendt zu einem Verständnis der Bedingungen des menschlichen Daseins.
+  * Seit der Gestapo-Verhaftung kam es bei Arendt zu einem Verständnis der Bedingungen des menschlichen Daseins.
 
 - Ab 1941 leben in New York City, New York, USA.
 
-    * Zuflucht und Aufnahme am Bard College.
-    * 1951 veröffentlicht sie „The Origins of Totaliarianism“, in dem sie Ursprünge und Charakteristika totalitärer Regieme untersucht.
-    * 1958 veröffentlicht sie „Vita activa“, in dem sie verschiedene menschliche Aktivitäten analysiert und aufweist, dass diese bedeutend für menschliche Freiheit und politisches Leben sind.
+  * Zuflucht und Aufnahme am Bard College.
+  * 1951 veröffentlicht sie „The Origins of Totalitarianism“, in dem sie Ursprünge und Charakteristika totalitärer Regime untersucht.
+  * 1958 veröffentlicht sie „Vita activa“, in dem sie verschiedene menschliche Aktivitäten analysiert und aufweist, dass diese bedeutend für menschliche Freiheit und politisches Leben sind.
 
 - 1961 Beobachtung der Eichmann-Prozesse Jerusalem, Israel
 
-    * Arendt ist als Journalistin bei den Prozessen dabei.
-    * Thema: Organisation Eichmanns für Judentransporte in Vernichtungslager.
-    * Arendt erkennt, dass das Böse auch in unauffälligen Personen verborgen sein kann.
+  * Arendt ist als Journalistin bei den Prozessen dabei.
+  * Thema: Organisation Eichmanns für Judentransporte in Vernichtungslager.
+  * Arendt erkennt, dass das Böse auch in unauffälligen Personen verborgen sein kann.
 
 - 1963 bis 1967 Lehrauftrag in Chicago, Illinois, USA
 - Ab 1967 Professur in New York City, New York, USA
 
-    * Durch Austausch mit amerikanischen Denkern kommt es zu neuem Denken über Demokratie und Freiheit.
+  * Durch Austausch mit amerikanischen Denkern kommt es zu neuem Denken über Demokratie und Freiheit.
 
 - 1975 Tod am zweiten Herzinfarkt in New York City, New York, USA
 - Beisetzung auf dem Bard Campus in Annandale-up-Hudson, New York, USA
@@ -175,7 +198,7 @@
 
  **Zur Person**
 
-- Geburt: 9. Juli 1887 in Berlin
+- Geboren am 9. Juli 1887 in Berlin
 - Wuchs in einer jüdischen Kaufmannsfamilie auf
 - Eltern waren Natalie (geb. Gabriel) und Max Berent; ihr Bruder Hans und seine Familie wurden im KZ Auschwitz ermordet
 - Studium: Studierte Rechts- und Staatswissenschaften in Berlin, später in Erlangen
@@ -183,9 +206,9 @@
 - Leiterin der Charlottenburger Rechtsschutzstelle für Frauen
 - Dezernentin der Adoptionsstelle der Deutschen Zentrale für Jugendfürsorge
 - Arbeit im Juristischen Büro der Allgemeinen Elektrizitätsgesellschaft (AEG) in Berlin
-- Margarete Berent war mit [Hilde Lion](https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/hilde-lion "weitere Informationen zu Hilde Lion im Digitalen Deutschen Frauenarchiv") an der Deutschen Akademie als Sozialarbeiterinnen und in verwandten Berufen tätig
+- Margarete Berent war mit [Hilde Lion](#hilde-lion) an der Deutschen Akademie als Sozialarbeiterinnen und in verwandten Berufen tätig
 - Zulassung als Rechtsanwältin am 7. März 1925
-- Tod: 23. Juni 1965 in New York
+- Verstorben am 23. Juni 1965 in New York
 
 **Exil**
 
@@ -198,7 +221,7 @@
 
 **Literatur zur Person**
 
- - Dr. Margartete Berent (Rechtsphilosophin): Weibliche Teilhabe in Wissenschaft und Beruf - Das Portrait einer Pionierin ([hier](https://www.frauenbeauftragte.rw.fau.de/files/2023/07/Margarete-Berent-djbZ-02_23.pdf))
+ - Dr. Margartete Berent (Rechtsphilosophin): Weibliche Teilhabe in Wissenschaft und Beruf - Das Portrait einer Pionierin. ([hier](https://www.frauenbeauftragte.rw.fau.de/files/2023/07/Margarete-Berent-djbZ-02_23.pdf))
  - Cordes, Oda: Frauen als Wegbereiter des Rechts: Die ersten deutschen Juristinnen und ihre Reformforderungen in der Weimarer Republik, Hamburg 2012.
  - Dick, Jutta / Sassenberg, Marina: Jüdische Frauen im 19. und 20. Jahrhundert. Lexikon zu Leben und Werk, Reinbek 1993.
  - Maierhof, Gudrun: Selbstbehauptung im Chaos Frauen in der Jüdischen Selbsthilfe 1933-1943, Frankfurt/New York 2002.
@@ -233,14 +256,17 @@
 - Leiterin Warburg Institute in London
 - Einsatz für Exilanten und Exilantinnen
 - Vermittlung von Stellen an jüdische Intellektuelle
-- Enge Zusammenarbeit mit Hilde Lion 
+- Enge Zusammenarbeit mit [Hilde Lion](#hilde-lion)
 
 - Philosophie, Literaturgeschichte und Psychologie Studium in München/Hamburg
 - Promotion unter Ernst Cassirer
 - Bibliothekarin der KBW
-- 1924 pers. Assistentin Aby M. Warburgs
+- 1924 persönliche Assistentin Aby M. Warburgs
 - Lebensprojekte:
     Bibliographie Warburgs (Projekt blieb unvollendet), Fragment sur Aby Warburg
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Hier fehlt noch eine genauere Recherche zu ihrem Leben im Exil..
 
 **Literatur zur Person**
 
@@ -262,6 +288,8 @@
  - Das Jüdische Hamburg ([Gertrud Bing](https://www.dasjuedischehamburg.de/inhalt/bing-gertrud))
  - Ein Gespräch: "Philippe Despoix, Martin Treml: Gertrud Bing - Zentralfigur im interlektuellen Netzwerk der Bibliothek Warburg" ([Link](https://mediathek.hkw.de/video/philippe-despoix--martin-treml--gertrud-bing---zentralfigur-im-intellektuellen-netzwerk-der-bibliothek-warburg?q=martin&x=D&backscreen=search))
 
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
 
 
 ## Charlotte Bühler
@@ -337,6 +365,9 @@ Else Frenkel-Brunswik studierte Mathematik, Physik und schließlich Psychologie 
 
 Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die USA und begann an der University of California in Berkeley ihre Tätigkeit als Senior Lecturer am Institute of Child Welfare sowie als wissenschaftliche Psychologin und Psychotherapeutin am Cowell Memorial Hospital. Im selben Jahr heiratete sie den ebenfalls aus Wien emigrierten Psychologen Egon Brunswik.
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Eventuell noch genauer zu recherchieren..
+
 **Literatur zur Person**
 
 - Gerhard Benetka: Frenkel-Brunswik, Else. In: Brigitta Keintzel, Ilse Korotin (Hrsg.): Wissenschafterinnen in und aus Österreich. Leben – Werk – Wirken. Böhlau, Wien/Köln/Weimar 2002.
@@ -361,8 +392,6 @@ Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die U
 
 ## Anna Freud 
 
-!noch nicht im Seminar erforscht!
-
 ![Anna Freud](Images/annafreud.jpg.crdownload "Veröffentlicht als CC auf https://ecolesnouvelles.hypotheses.org/243")
 
 >✶ 1895 - ✝ 1982 
@@ -374,6 +403,9 @@ Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die U
 - 1938 musste Anna Freud mit ihrem Vater das Land verlassen und ließ sich in England nieder
 - Nach dem Tode ihres Vaters veranlasste sie die Herausgabe seiner "Gesammelten Werke"
 - Sie setzte ihre Tätigkeit im Bereich der therapeutischen Betreuung von Kindern fort und gründete 1952 eine Kinderklinik, welche sie bis zu ihrem Tod leitete. Schon vorher hatte sie einen Lehrgang für kinderanalytische Ausbildung begründet, den sie als ihr Lebenswerk betrachtete
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Eventuell noch genauer zu recherchieren..
 
 **Literatur zur Person**
 
@@ -421,6 +453,21 @@ Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die U
 * 1993: Promotion zu dem Thema „Zeitumbruch – Zur messianischen Grunderfahrung in der jüdischen Tradition“
 * 2010: Gastprofessorin in Osnabrück
 * 2014: Gastprofessorin in Lüneburg
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
 
 ## Isa Gruner 
 
@@ -477,6 +524,9 @@ Mit dem Beginn der Naziherrschaft in Österreich floh Else Frenkel 1938 in die U
 
 Olga Hahn-Neurath studierte Philosophie und Mathematik in Wien. Während ihres Studiums erblindete Sie, und betrieb mathematische Aussagenlogik ohne ihr Augenlicht. Sie war Mitbegründerin des Wiener Kreises.
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu ergänzen..
+
 **Exil**
 
 Gemeinsam mit Otto Neurath hielt sie sich im Februar 1934 in Moskau auf und kehrte nach den Ereignissen des Februaraufstands 1934 nicht mehr nach Österreich zurück. Über Polen und Dänemark emigrierte das Paar in die Niederlande (Den Haag).
@@ -490,6 +540,9 @@ Gemeinsam mit Otto Neurath hielt sie sich im Februar 1934 in Moskau auf und kehr
 
 - Wikipediabeitrag ([O.Hahn-Neurath](https://de.wikipedia.org/wiki/Olga_Hahn-Neurath))
 - Biografia ([O. Hahn-Neurath](http://biografia.sabiado.at/hahn-neurath-olga/))
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
 
 ## Käte Hamburger
 
@@ -563,13 +616,48 @@ Gemeinsam mit Otto Neurath hielt sie sich im Februar 1934 in Moskau auf und kehr
 * 1950-1966 Professorin für Philosophie und Physik an der Pädagogischen Hochschule Bremen
 * Gestorben am 15.04.1984 in Bremen
 
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
+
 ## Jeanne Hersch 
 
->✶  - ✝ 
+>✶ 1910 - ✝ 2000
 >
->**Exil:**
+>**Exil:**???
 
-Podcast! 
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
+
+Hinweis: Es wurde ein Podcast im SoSe2024 erstellt (Olat)
 
 ## Lida Heymann
 
@@ -586,11 +674,29 @@ Podcast!
 - In der Schweiz schrieb sie "Erlebtes - Erschautes"
 - Gestorben am 31. Juli 1943
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Kann bestenfalls noch ergänzt werden..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
+
 ## Rivka Horwitz
 
 >✶ 1926 - ✝ 2007
 >
->**Exil:**
+>**Exil:** ??? USA
 
 **Zur Person**
 
@@ -604,11 +710,29 @@ Podcast!
 
 Primärquelle: https://de.wikipedia.org/wiki/Rivka_Horwitz#Schriften
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Kann bestenfalls noch ergänzt werden..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
+
 ## Ricarda Huch
 
 >✶ 1864 - ✝ 1947
 >
->**Exil:**
+>**Exil:** ???
 
 **Zur Person**
 
@@ -622,10 +746,23 @@ Primärquelle: https://de.wikipedia.org/wiki/Rivka_Horwitz#Schriften
 - Philosophisch hat sie sich stark mit Religion und Entmenschlichung beschäftigt
 - Gestorben am 17. November 1947
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Kann bestenfalls noch ergänzt werden..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
 **Publikationen**
 
 - Der Sinn der heiligen Schrift. Insel-Verlag, Leipzig 1919.
 - Entpersönlichung. Insel-Verlag, Leipzig 1921.
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
 
 ## Dore Jacobs (geb. Marcus)
 
@@ -684,7 +821,7 @@ Primärquelle: https://de.wikipedia.org/wiki/Rivka_Horwitz#Schriften
 
 ## Marie Jahoda
 
->✶ - ✝ 
+> Zu ergänzen! ✶ 1907 - ✝ 2001 
 >
 >**Exil:**London, New York
 
@@ -694,8 +831,23 @@ Primärquelle: https://de.wikipedia.org/wiki/Rivka_Horwitz#Schriften
 - großer Fokus auf Empirik
 - Erforschung von Arbeitslosigkeit: "Die Arbeitslosen von Marienthal"
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu ergänzen..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
 **Siehe auch**
 
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
 
 ## Lotte Labowsky
 
@@ -732,7 +884,10 @@ Primärquelle: https://de.wikipedia.org/wiki/Rivka_Horwitz#Schriften
 
 **Siehe auch**
 
-- Hamburger Frauenbiografien ([L. Labowsky](https://www.hamburg.de/clp/zwangsarbeiterinnen-valvofrauen/clp1/hamburgde/onepage.php?BIOID=4249&strasse=62&qR=L))
+- Hamburger Frauenbiografien ([L. Labowsky](https://hamburg-frauenbiografien.de/item/4249))
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
 
 ## Hilde Lion
 
@@ -785,34 +940,68 @@ Primärquelle: https://de.wikipedia.org/wiki/Rivka_Horwitz#Schriften
 
 ## Seweryna Łuszczewska-Romahnowa
 
->✶ - ✝
+>Zu ergänzen!! ✶ - ✝
 >
->**Exil:** 
+>**Exil:** ???
 
 **Zur Person:**
 
 Sie ist eine polnische Logikerin und Philosophin, die 1932 in Lwów promovierte. Sie gilt als der Lwów–Warsaw school [Lemberg-Warschau-Schule] zugehörig, eine einflussreiche logisch-philosophische Schule im Polen des 20. Jahrhunderts, welche mit anderen logisch-philosophischen Kreisen (Z.B. dem Wiener Kreis) in Europa in Kontakt war.
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu ergänzen..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
+
 ## Ayn Rand
 
->✶ - ✝ 
+>✶ 1905 - ✝ 1982
 >
 >**Exil:** New York
 
 **Zur Person**
 
-- Aufwachsen in der Sovjetunion im frühen 20. Jahrhundert
+- Aufgewachsen in der Sovjetunion im frühen 20. Jahrhundert
 - Flucht vor politischen Umbrüchen, Verstaatlichung der Apotheke des Vaters
 - Studiert aber weiter in Sovjetunion und emigriert mit Abschluss in Geschichte, Philosphie und Drehbuchschreiben nach New York um dem Kommunismus zu entkommen
-- Schreibt dort viele Drehbuecher und lernt Frank O'Connor kennen und heiratet ihn
+- Schreibt dort viele Drehbücher und lernt Frank O'Connor kennen und heiratet ihn
 - Entwickelt den philophischen Objektivisimus (eng verwoben mit Kapitalismus):
-    - Ablehnung von Altruismus
-    - betont Bedeutung des rationalen Eigeninteresses
+  - Ablehnung von Altruismus
+  - betont Bedeutung des rationalen Eigeninteresses
 - Lehnte Feminismus der damaligen Form ab und strebte eher nach Individualismus und rationales Selbstineresse im Sinne des Objektivismus
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Bestenfalls noch zu ergänzen..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
 
 **Siehe auch**
 
 - https://aynrand.org/ bietet extensives Material zur Beschäftigung mit Ayn Rands Person und philosophischem Erbe
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
 
 ## Rose Rand 
 
@@ -915,19 +1104,45 @@ Rose Rand ist eine Österreichische Philosophin und Logikerin. Sie war Mitglied 
 * 1952-1961 Dozentin für Geschichte und Philosophie der Naturwissenschaften an der Universität Sidney
 * Gestorben am 06.02.1990 in Sidney
 
-## Alice Salomon 
+<!-- style="background-color: lightblue;"-->
+>🔍 Bestenfalls noch zu ergänzen..
 
-!noch nicht im Seminar erforscht!
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für hilfreiche Links, weitere interessante Informationen, Blogbeiträge, etc.
+
+## Alice Salomon 
 
 >✶ 1873 - ✝ 1948
 >
->**Exil:**
+>**Exil:**???
+
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
 
 **Exil**
 
 - Im Mai 1933 wurde Alice Salomon in ihrer Funktion als Präsidentin der Frauenakademie von einer nationalsozialistischen Beamtin aufgefordert, die jüdische Direktorin  Hilde Lion zu entlassen. Diesen Vorfall kommentierte Alice Salomon folgendermaßen: Erziehungsminister wird „Der mit neue Briefen bombardiert, die sich darüber beklagen, die Frauenakademie sei eine Brutstätte des Kommunismus. Das war natürlich absurd, wenn überhaupt, dann tendierten Studenten und Lehrkräfte zum Konservatismus. (...) Ich erklärte, dass wir Dr. Lion deshalb ernannt hatten, da sie die Beste für diese Stellung und eine der begabtesten Frauen ihrer Generation war; außerdem habe sie einen Vertrag auf Lebenszeit. Ich sagte ihr, dass ich eher die Akademie zerstören würde, die mir so lieb war wie das jüngste Kind, als dass ich eine Mitarbeiterin betrügen würde, und dass ich nie jemanden aus rassischen oder religiösen Gründen entlassen würde.“
 - Am 9. Mai 1933 wurde die Akademie auf Antrag von Alice Salomon mit der Begründung aufgelöst, dass die finanzielle Basis für den Weiterbestand der Akademie durch die Nationalsozialisten nicht mehr gegeben sei. Außerdem sei es nicht mehr möglich, Forschungsinhalte eigenständig zu bestimmen. [12] Anschließend wurde Alice Salomon von den neuen Machthabern aus allen öffentlichen Ämtern gedrängt.
 - Im Jahr 1937 wurde die inzwischen 65-Jährige,kurz nachdem sie von einer Vortragsreise aus den USA zurückgekehrt war, nach Verhören durch die Gestapo zur Emigration gezwungen.
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
 
 **Publikationen**
 
@@ -950,11 +1165,24 @@ Rose Rand ist eine Österreichische Philosophin und Logikerin. Sie war Mitglied 
 
 ## Elisabeth Schöndube 
 
-!noch nicht im Seminar erforscht! 
-
->✶ - ✝ 
+>✶ 1909 - ✝ 1983
 >
->**Exil:**
+>**Exil:**???
+
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
 
 **Siehe auch**
 
@@ -963,19 +1191,45 @@ Rose Rand ist eine Österreichische Philosophin und Logikerin. Sie war Mitglied 
 - Library of Congress Books ([E. Schöndube]())
 - Harvard Library ([E. Schöndube]())
 
-## Elisabeth Schumpeter
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
 
-!noch nicht im Seminar erforscht!
+## Elisabeth Schumpeter
 
 >✶ 1898 - ✝ 1953 
 >
->**Exil:**
+>**Exil:**???
+
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+- Deutsche Biografie ([E. Schöndube]())
+- Oxford Reference ([E. Schöndube]())
+- Library of Congress Books ([E. Schöndube]())
+- Harvard Library ([E. Schöndube]())
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
 
 ## Elisabeth Selbert
 
->✶ - ✝ 
+>✶ 1896 - ✝ 1986
 >
->**Exil:**
+>**Exil:**???
 
 **Zur Person**
 
@@ -989,9 +1243,30 @@ Rose Rand ist eine Österreichische Philosophin und Logikerin. Sie war Mitglied 
 - Einsatz für soziale Gerechtigkeit und Chancengleichheit
 - Verbindet ihren Einsatz für Frauenrechte mit einem starken Engagement in der Sozialdemokratie und der Arbeiterbewegung
 
+<!-- style="background-color: lightblue;"-->
+>🔍 Besonders hinsichtlich ihres Lebens im Exil ergänzen..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
 **Siehe auch**
 
-Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material zur Beschäftigung mit Elisabeth Selberts Leben und Werk 
+- Deutsche Biografie ([E. Schöndube]())
+- Oxford Reference ([E. Schöndube]())
+- Library of Congress Books ([E. Schöndube]())
+- Harvard Library ([E. Schöndube]())
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
+
+Hinweis: Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material zur Beschäftigung mit Elisabeth Selberts Leben und Werk 
 
 ## Judith N. Shaklar 
 
@@ -999,7 +1274,7 @@ Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material
 
 >✶ 1928 - ✝ 1992
 >
->**Exil:**
+>**Exil:**???
 
 **Zur Person**
 
@@ -1056,26 +1331,40 @@ Die Hessische Landeszentrale für politische Bildung bietet umfassendes Material
 >
 >(Von Elaine Ringeloth und Fleming Jensen) 
 
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
+
 ## Helene Stöcker
 
 ![Helene Stöcker](Images/Dr._phil._Helene_Stoecker_c._1903.png "Von Photographer not credited - Berliner Leben, Jg. 1903, Heft 07., Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=90830370")
 
 >✶ 1869 - ✝ 1943
 >
->**Exil:**
+>**Exil:**???
 
-**Referat über Helene Stöcker im Rahmen des Projektseminars SoSe2024:**
+**Zur Person**
 
-Helene Stöcker wurde anhand ihrer Biografie, ihrem Projekt "Bund für Mutterschutz und Sexualreform" und der Verbindung zu Digital Humanities (da die Bibliographie und die Autobiographie etc. mit Wikidata gemacht wurde) vorgestellt. Ihr Leben im Exil (1933) und die auffälligen Merkmale und Ironien in ihrem Werk wurden ebenfalls diskutiert.
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
 
-Inhalte ...
-
-**Exil:**
+**Exil**
 
 - Mit der Machtübernahme der Nationalsozialisten 1933 floh sie über die Schweiz nach Schweden. Schon früh erkannte Stöcker, die entschiedene Gegnerin jedes antisemitischen Gedankenguts, die „Schrecknisse der Judenverfolgung”. 
 - In Stockholm veranstaltete der Schutzverband deutscher Schriftsteller am 13. November 1939 eine Geburtstagsfeier für Helene Stöcker, in der noch einmal ihre internationale Bedeutung offenbar wurde. Mit Mühe gelang ihr dann die Flucht über die Sowjetunion und Japan in die Vereinigten Staaten, wo sie 1943 in New York völlig mittellos an Krebs verstarb.
 
-**Literatur zur Person (Auswahl):**
+**Literatur zur Person**
 
 - Rolf von Bockel: Philosophin einer „neuen Ethik“. Helene Stöcker (1869–1943). Edition Hamburg Bormann und von Bockel, Hamburg 1991. 
 - Gudrun Hamelmann: Helene Stöcker, der „Bund für Mutterschutz“' und „Die Neue Generation“. Haag und Herchen, Frankfurt am Main 1998. 
@@ -1085,7 +1374,7 @@ Inhalte ...
 - Christl Wickert: Helene Stöcker 1869–1943. Frauenrechtlerin, Sexualreformerin und Pazifistin. Eine Biographie. Dietz, Bonn 1991. 
 - Christl Wickert: Helene Stöcker (1869– 1943), Leben und Arbeit für die Gleichstellung der Frau. In: Kritische Justiz (Hrsg.): Streitbare Juristen. Eine andere Tradition. Nomos, Baden Baden 1988.
 
-**Publikationen (Auswahl):**
+**Publikationen**
 
 - Zur Kunstanschauung des 18. Jahrhunderts: Von Winckelmann bis zu Wackenroder (= Palaestra, Band 26), Mayer & Müller, Berlin 1904, Dissertation Universität Bern 1902. 
 - Die Liebe und die Frauen. Ein Manifest der Emanzipation von Frau und Mann im deutschen Kaiserreich. Minden: Bruns, 1906. Zweite durchge. u. verm. Aufl. Minden: Bruns, 1908. 
@@ -1097,7 +1386,7 @@ Inhalte ...
 - Erotik und Altruismus. 1924. 
 - Verkünder und Verwirklicher. Beiträge zum Gewaltproblem. 1928
 
-**Siehe auch:**
+**Siehe auch**
 
 - DLF Beitrag ([hier](https://www.deutschlandfunk.de/vor-150-jahren-geboren-helene-stoecker-attackierte-die-100.html)) 
 - Literatur Rheinland ([hier](https://www.literatur-rheinland.de/projekte/autorinnen-portraets/stoecker-helene)) 
@@ -1107,13 +1396,35 @@ Inhalte ...
 - Lego ([H. Stöcker](https://www.dhm.de/lemo/biografie/helene-stoecker)) 
 - Deutsches Digitales Frauenarchiv ([H. Stöcker](https://www.digitales-deutsches-frauenarchiv.de/akteurinnen/helene-stoecker))
 
+>Referat über Helene Stöcker im Rahmen des Projektseminars SoSe2024:
+>
+>Helene Stöcker wurde anhand ihrer Biografie, ihrem Projekt "Bund für Mutterschutz und Sexualreform" und der Verbindung zu Digital Humanities (da die Bibliographie und die Autobiographie etc. mit Wikidata gemacht wurde) vorgestellt. Ihr Leben im Exil (1933) und die auffälligen Merkmale und Ironien in ihrem Werk wurden ebenfalls diskutiert.
+
 ## Margarete Susman
 
-!Noch nicht im Seminar erforscht!
-
->✶ - ✝ 
+>✶ 1872 - ✝ 1966
 >
->**Exil:**
+>**Exil:**???
+
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
 
 ## Simone Weil 
 
@@ -1122,6 +1433,11 @@ Inhalte ...
 >✶ 1909 - ✝ 1943
 >
 >**Exil:** Marseille und England
+
+**Zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
 
 **Exil**
 
@@ -1203,7 +1519,11 @@ Inhalte ...
 
 **Siehe auch**
 
-Frauengeschichte Wiki ([E. Wolff](https://wiki.frauengeschichtsverein.de/index.php?title=Emmy_Wolff))
+- Frauengeschichte Wiki ([E. Wolff](https://wiki.frauengeschichtsverein.de/index.php?title=Emmy_Wolff))
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
+
 
 ## Sidonie Wronsky
 
@@ -1260,7 +1580,7 @@ Frauengeschichte Wiki ([E. Wolff](https://wiki.frauengeschichtsverein.de/index.p
 
 >✶ 1884 - ✝ 1965 
 >
->**Exil:**
+>**Exil:**??
 
 **Zur Person**
 
@@ -1270,7 +1590,7 @@ Frauengeschichte Wiki ([E. Wolff](https://wiki.frauengeschichtsverein.de/index.p
 * 1923-1933: Herausgeberin der Berliner Wochenzeitung Soziale Praxis 
 * 1924 – 1925: Richterin am Obersten Sozialversicherungsgericht in Berlin
 * 1925 – 1933: Parteimitglied der DDP in Berlin
-    * 1930 – 1932: Abgeordnete im Preußischen Landtag für die DDP
+* 1930 – 1932: Abgeordnete im Preußischen Landtag für die DDP
 * 1925 – 1933: Lehrkraft an der Deutschen Akademie für soziale und pädagogische Frauenarbeit
 * 1927 – 1933: Nebenamtliche Dozentin an der Deutschen Gesundheitsfürsorgeschule Berlin-Charlottenburg
 * 1930 – 1933: Professorin für Soziologie und Sozialpolitik an das Staatliche Berufspädagogische Institut in Berlin
@@ -1278,5 +1598,20 @@ Frauengeschichte Wiki ([E. Wolff](https://wiki.frauengeschichtsverein.de/index.p
 * 1931 – 1933: Generalsekretärin der Gesellschaft für Soziale Reform
 * 1933: Professur für Wirtschaftswissenschaften, Soziologie und Sozialwissenschaften an der Graduate Faculty der New School for Social 
 * 1933: Gründung der University of Exile in New York und der Graduate Faculty der New School for Social Research
-    *  1939: Dekanin der Graduiertenfakultät für Politik- und Sozialwissenschaften an der Graduate Faculty der New School for Social Research der University of Exile
+* 1939: Dekanin der Graduiertenfakultät für Politik- und Sozialwissenschaften an der Graduate Faculty der New School for Social Research der University of Exile
 * Gestorben: 09.12.1965 in New Yersey
+
+**Literatur zur Person**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Publikationen**
+
+<!-- style="background-color: lightblue;"-->
+>🔍 Noch zu recherchieren..
+
+**Siehe auch**
+
+<!-- style="background-color: lightblue;"-->
+>🔗 Platz für weitere hilfreiche Links, interessante Informationen, Blogbeiträge, etc.
